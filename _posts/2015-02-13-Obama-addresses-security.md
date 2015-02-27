@@ -2,9 +2,8 @@
 title: "Obama addresses cybersecurity concerns, signs executive order"
 ---
 
-# BY FARIDA JHABVALA ROMERO / FEBRUARY 13, 2015
+##### BY FARIDA JHABVALA ROMERO / FEBRUARY 13, 2015
 
-Heysadfklj
 
 President Obama on Friday called on Silicon Valley and corporate America to collaborate with the government on cybersecurity, and signed an executive order that would promote the sharing of information on threats or attacks between government and the private sector.
 
